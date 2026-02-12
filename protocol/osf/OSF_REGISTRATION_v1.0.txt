@@ -1,0 +1,21 @@
+OSF Registration (Protocol v1.0) — Evidence
+
+Title: Protocolo V1.0 — Ações Vs CDI (Mais Retorno) — Simulação Educacional Reprodutível — D0=10/02/2026.)
+OSF Registration ID (short): 4cv3z
+OSF Registration URL: https://osf.io/4cv3z/
+OSF Registration Overview URL: https://osf.io/4cv3z/overview
+Associated Project: https://osf.io/q4vbz
+
+Registry: OSF Registries
+Registration template/type: Open-Ended Registration
+Date Registered: Feb 12, 2026, 1:16 PM (My Registrations shows 1:16:14 PM)
+License: CC-BY Attribution-NonCommercial-NoDerivatives 4.0 International
+Registration DOI: No DOI
+
+Status at time of capture:
+- Pending embargo approval (My Registrations)
+- Pending approval (Registration Overview)
+
+Notes:
+- This OSF registration is the preregistration freeze for protocol v1.0.
+- Any changes after this freeze require protocol v1.1 with written justification.

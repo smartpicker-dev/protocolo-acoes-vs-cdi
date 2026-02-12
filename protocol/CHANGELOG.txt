@@ -1,0 +1,5 @@
+CHANGELOG — Protocolo “Ações vs CDI”
+
+v1.0 — Pré-registro / freeze (ver tags: freeze-2026-02-12-123649-0300 e OSF 4cv3z).
+
+v1.1 — Substituição por auditabilidade (pré-coleta): KLBN3 apresentou histórico mensal incompleto no Mais Retorno (ex.: relatório 25Y no corte D-12m indica Qtd.M=251, abaixo do esperado), reduzindo reprodutibilidade e QA. Substituição: KLBN3 → GGBR3 no Portfólio B, mantendo a regra setorial (economia real: indústria/metais). Demais parâmetros inalterados.
