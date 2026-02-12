@@ -1,0 +1,6 @@
+freeze_created_at_local: 2026-02-12T12:36:49-0300
+protocol_version: 1.0
+freeze_date_declared: 2026-02-12
+anchor_D0_declared: 2026-02-10
+platform: Mais Retorno (maisretorno.com)
+notes: Any post-freeze changes require protocol v1.1 + written justification.
