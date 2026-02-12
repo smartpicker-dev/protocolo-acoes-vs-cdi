@@ -34,3 +34,12 @@ Qualquer alteração após o congelamento do v1.0 deve gerar **v1.1** com justif
 - Motivo: ver `protocol/CHANGELOG.txt`
 - Verificação: `shasum -a 256 -c protocol/HASHES_v1.1_SHA256.txt`
 
+
+## Protocolo v1.2 (pré-coleta — auditabilidade)
+- Tag (freeze): protocol-v1.2
+- Commit (freeze): 28598d9
+- Manifest tag: manifest-v1.2-2026-02-12-205431-0300
+- Manifest commit: dde6f6e
+- Arquivos: ver pasta protocol/ (inclui PDF assinado + .md + .txt)
+- Motivo: ver protocol/CHANGELOG.txt
+- Verificação: shasum -a 256 -c protocol/HASHES_v1.2_SHA256.txt
