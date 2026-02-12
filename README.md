@@ -24,3 +24,10 @@ Saída esperada: todos os arquivos com status **OK**.
 
 ## Regra de mudanças
 Qualquer alteração após o congelamento do v1.0 deve gerar **v1.1** com justificativa escrita (o que mudou, por quê e impacto esperado).
+
+## Protocolo v1.1 (pré-coleta — auditabilidade)
+- Tag: `protocol-v1.1`
+- Commit: `b27ff3c`
+- Motivo: ver `protocol/CHANGELOG.txt`
+- Verificação: `shasum -a 256 -c protocol/HASHES_v1.1_SHA256.txt`
+
