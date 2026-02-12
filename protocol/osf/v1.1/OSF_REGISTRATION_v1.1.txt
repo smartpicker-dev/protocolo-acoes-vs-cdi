@@ -1,0 +1,18 @@
+OSF Registration (Protocol v1.1) — Evidence
+
+Title: Protocolo V1.1 — Ações vs CDI (Mais Retorno) — Simulação Educacional Reprodutível — D0=10/02/2026
+OSF Registration ID (short): btkne
+OSF Registration URL: https://osf.io/btkne/
+Associated Project: https://osf.io/q4vbz/
+Registration Type: OSF Preregistration
+Date registered: Feb 12, 2026
+Registration DOI (as shown in metadata UI): https://doi.org/undefined
+Status at time of capture: Archiving (no changes allowed until completion)
+
+Evidence files:
+- OSF_REGISTRATION_OVERVIEW_btkne.png
+- OSF_FILES_ARCHIVE_btkne.png
+- OSF_METADATA_btkne.png
+
+Notes:
+- Do not modify OSF files while “archiving”.
