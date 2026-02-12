@@ -26,8 +26,11 @@ Saída esperada: todos os arquivos com status **OK**.
 Qualquer alteração após o congelamento do v1.0 deve gerar **v1.1** com justificativa escrita (o que mudou, por quê e impacto esperado).
 
 ## Protocolo v1.1 (pré-coleta — auditabilidade)
-- Tag: `protocol-v1.1`
-- Commit: `b27ff3c`
+- Tag (freeze): `protocol-v1.1`
+- Commit (freeze): `b27ff3c`
+- Manifest tag: `manifest-v1.1-2026-02-12-192949-0300`
+- Manifest commit: `cccc9da`
+- Arquivos: ver pasta `protocol/` (inclui PDF assinado + .md + .txt)
 - Motivo: ver `protocol/CHANGELOG.txt`
 - Verificação: `shasum -a 256 -c protocol/HASHES_v1.1_SHA256.txt`
 
