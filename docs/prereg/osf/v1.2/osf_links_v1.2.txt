@@ -1,0 +1,14 @@
+OSF prereg evidence — Protocol v1.2
+
+Registration (overview): https://osf.io/842b7/
+Files (OSF Storage): https://osf.io/842b7/files/osfstorage
+Registration ID: 842b7
+
+Status at capture: "This Registration is currently archiving..."
+Archived files (OSF Storage):
+- Protocolo_v1.2_assinado.pdf
+- Protocolo_v1.2.md
+- Protocolo_v1.2.txt
+
+Captured by: Patrick Gerard Pin
+Local date/time: 2026-02-12T21:08:15-0300
