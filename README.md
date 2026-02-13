@@ -42,4 +42,5 @@ Qualquer alteração após o congelamento do v1.0 deve gerar **v1.1** com justif
 - Manifest commit: dde6f6e
 - Arquivos: ver pasta protocol/ (inclui PDF assinado + .md + .txt)
 - Motivo: ver protocol/CHANGELOG.txt
+- OSF prereg (842b7): `prereg-osf-842b7-v1.2-complete-2026-02-12-212044-0300` (commit `616273c`)
 - Verificação: shasum -a 256 -c protocol/HASHES_v1.2_SHA256.txt
