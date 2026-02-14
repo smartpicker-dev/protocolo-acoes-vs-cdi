@@ -1,0 +1,20 @@
+OSF registration evidence — Protocol v1.3
+
+Registration (overview): https://osf.io/8vub2/overview
+Files (OSF Storage): https://osf.io/8vub2/files/osfstorage
+Metadata: https://osf.io/8vub2/metadata/osf
+Registration ID: 8vub2
+Associated project (as shown in UI): https://osf.io/2yaq4/
+
+Status at capture: "This Registration Is Currently Archiving, And No Changes Can Be Made At This Time."
+Registration Type (as shown in UI): Open-Ended Registration
+Date registered (as shown in UI): Feb 14, 2026
+Registration DOI (as shown in metadata UI): https://doi.org/undefined
+
+Archived files (OSF Storage):
+- Protocolo_v1.3_assinado.pdf
+- Protocolo v1.3.md
+- Protocolo v1.3.txt
+
+Captured by: Patrick Gerard Pin
+Local date/time: 2026-02-14T16:51:57-0300

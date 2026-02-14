@@ -1,0 +1,3 @@
+215ab20edea0ece9f24fc30c6aeb123a33d68a9be461cb1d73cf55fa82001b33  protocol/protocolo_v1.3.md
+fdc5cea227dc3acad3c5cec49e04ff39f444fb5266cead15e0a1aad8d1ad7b32  protocol/protocolo_v1.3.txt
+34dac8dbbffe29ffc74d3cc7adc488ef292edb8494a71113062f11de93ebd411  protocol/Protocolo_v1.3_ASSINADO.pdf
