@@ -52,4 +52,5 @@ Qualquer alteração após o congelamento do v1.0 deve gerar **v1.1** com justif
 - Manifest commit: `2d317d1`
 - Natureza: errata editorial (sem impacto analítico)
 - Motivo: ver `protocol/CHANGELOG.txt`
+- OSF registro (8vub2): `prereg-osf-8vub2-v1.3-complete-2026-02-14-165200-0300` (commit `0b04860`)
 - Verificação: `shasum -a 256 -c protocol/HASHES_v1.3_SHA256.txt`
