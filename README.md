@@ -44,3 +44,12 @@ Qualquer alteração após o congelamento do v1.0 deve gerar **v1.1** com justif
 - Motivo: ver protocol/CHANGELOG.txt
 - OSF prereg (842b7): `prereg-osf-842b7-v1.2-complete-2026-02-12-212044-0300` (commit `616273c`)
 - Verificação: shasum -a 256 -c protocol/HASHES_v1.2_SHA256.txt
+
+## Protocolo v1.3 (pré-coleta — auditabilidade)
+- Tag (freeze): `protocol-v1.3`
+- Commit (freeze): `6474cee`
+- Manifest tag: `manifest-v1.3-2026-02-14-163458-0300`
+- Manifest commit: `2d317d1`
+- Natureza: errata editorial (sem impacto analítico)
+- Motivo: ver `protocol/CHANGELOG.txt`
+- Verificação: `shasum -a 256 -c protocol/HASHES_v1.3_SHA256.txt`
