@@ -1,0 +1,121 @@
+snapshot,janela_anos,serie,tipo_relatorio,report_id,arquivo_pdf,data_inicio_pdf,data_fim_pdf,md5,size_bytes,observacoes
+D0,5,CMP,CMP,REL_CMP_D0_05Y,REL_CMP_D0_05Y.pdf,,,db5aee8f2d7420b58686ced425cb9ed1,287142,"Comparativo com 7 séries: PA, PB, PC, CDI, IBOV, SP500_PR, SP500_TR (BRL). | CMP: PDF comparativo pode não exibir datas explícitas; datas rastreadas via relatórios IND do mesmo corte/janela."
+D0,10,CMP,CMP,REL_CMP_D0_10Y,REL_CMP_D0_10Y.pdf,,,3587b196cd19110c2deb38052d662bb7,256904,"Comparativo com 7 séries: PA, PB, PC, CDI, IBOV, SP500_PR, SP500_TR (BRL). | CMP: PDF comparativo pode não exibir datas explícitas; datas rastreadas via relatórios IND do mesmo corte/janela."
+D0,15,CMP,CMP,REL_CMP_D0_15Y,REL_CMP_D0_15Y.pdf,,,1d33916bd5050981d5c4eccba6560afc,252109,"Comparativo com 7 séries: PA, PB, PC, CDI, IBOV, SP500_PR, SP500_TR (BRL). | CMP: PDF comparativo pode não exibir datas explícitas; datas rastreadas via relatórios IND do mesmo corte/janela."
+D0,20,CMP,CMP,REL_CMP_D0_20Y,REL_CMP_D0_20Y.pdf,,,1058f967672ceb30ddf08d06b57f6a93,265360,"Comparativo com 7 séries: PA, PB, PC, CDI, IBOV, SP500_PR, SP500_TR (BRL). | CMP: PDF comparativo pode não exibir datas explícitas; datas rastreadas via relatórios IND do mesmo corte/janela."
+D0,25,CMP,CMP,REL_CMP_D0_25Y,REL_CMP_D0_25Y.pdf,,,d14c9c6cd03c834224b5a9f7b4a00b9e,272521,"Comparativo com 7 séries: PA, PB, PC, CDI, IBOV, SP500_PR, SP500_TR (BRL). | CMP: PDF comparativo pode não exibir datas explícitas; datas rastreadas via relatórios IND do mesmo corte/janela."
+D-12m,5,CMP,CMP,REL_CMP_D12M_05Y,REL_CMP_D12M_05Y.pdf,,,86dee2d65064b73c04d6a7fdf0e539fc,245737,"Comparativo com 7 séries: PA, PB, PC, CDI, IBOV, SP500_PR, SP500_TR (BRL). | CMP: PDF comparativo pode não exibir datas explícitas; datas rastreadas via relatórios IND do mesmo corte/janela."
+D-12m,10,CMP,CMP,REL_CMP_D12M_10Y,REL_CMP_D12M_10Y.pdf,,,b1684f3b209b0b707daa6d7ebb986e64,246823,"Comparativo com 7 séries: PA, PB, PC, CDI, IBOV, SP500_PR, SP500_TR (BRL). | CMP: PDF comparativo pode não exibir datas explícitas; datas rastreadas via relatórios IND do mesmo corte/janela."
+D-12m,15,CMP,CMP,REL_CMP_D12M_15Y,REL_CMP_D12M_15Y.pdf,,,eab5dcbd2b6bb2edd97e6297ae39b0ef,259759,"Comparativo com 7 séries: PA, PB, PC, CDI, IBOV, SP500_PR, SP500_TR (BRL). | CMP: PDF comparativo pode não exibir datas explícitas; datas rastreadas via relatórios IND do mesmo corte/janela."
+D-12m,20,CMP,CMP,REL_CMP_D12M_20Y,REL_CMP_D12M_20Y.pdf,,,899a0123cfa4d0ac7f10d04ff1346cae,260052,"Comparativo com 7 séries: PA, PB, PC, CDI, IBOV, SP500_PR, SP500_TR (BRL). | CMP: PDF comparativo pode não exibir datas explícitas; datas rastreadas via relatórios IND do mesmo corte/janela."
+D-12m,25,CMP,CMP,REL_CMP_D12M_25Y,REL_CMP_D12M_25Y.pdf,,,39ddba3dae97a585cc3bbd95a4ce8480,270564,"Comparativo com 7 séries: PA, PB, PC, CDI, IBOV, SP500_PR, SP500_TR (BRL). | CMP: PDF comparativo pode não exibir datas explícitas; datas rastreadas via relatórios IND do mesmo corte/janela."
+D-6m,5,CMP,CMP,REL_CMP_D6M_05Y,REL_CMP_D6M_05Y.pdf,,,4e99c73c17b754fe8068f4eb85e86358,257042,"Comparativo com 7 séries: PA, PB, PC, CDI, IBOV, SP500_PR, SP500_TR (BRL). | D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão). | CMP: PDF comparativo pode não exibir datas explícitas; datas rastreadas via relatórios IND do mesmo corte/janela."
+D-6m,10,CMP,CMP,REL_CMP_D6M_10Y,REL_CMP_D6M_10Y.pdf,,,29341a10ff802eecf739be74b5bb97b9,271076,"Comparativo com 7 séries: PA, PB, PC, CDI, IBOV, SP500_PR, SP500_TR (BRL). | D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão). | CMP: PDF comparativo pode não exibir datas explícitas; datas rastreadas via relatórios IND do mesmo corte/janela."
+D-6m,15,CMP,CMP,REL_CMP_D6M_15Y,REL_CMP_D6M_15Y.pdf,,,439532175fcc3e287b7c2dc3601b611f,255905,"Comparativo com 7 séries: PA, PB, PC, CDI, IBOV, SP500_PR, SP500_TR (BRL). | D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão). | CMP: PDF comparativo pode não exibir datas explícitas; datas rastreadas via relatórios IND do mesmo corte/janela."
+D-6m,20,CMP,CMP,REL_CMP_D6M_20Y,REL_CMP_D6M_20Y.pdf,,,8979c33724ac0988ccbe4effbe616af3,276687,"Comparativo com 7 séries: PA, PB, PC, CDI, IBOV, SP500_PR, SP500_TR (BRL). | D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão). | CMP: PDF comparativo pode não exibir datas explícitas; datas rastreadas via relatórios IND do mesmo corte/janela."
+D-6m,25,CMP,CMP,REL_CMP_D6M_25Y,REL_CMP_D6M_25Y.pdf,,,419ecead6b0d1408f38c9f78c71e905b,272684,"Comparativo com 7 séries: PA, PB, PC, CDI, IBOV, SP500_PR, SP500_TR (BRL). | D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão). | CMP: PDF comparativo pode não exibir datas explícitas; datas rastreadas via relatórios IND do mesmo corte/janela."
+D0,10,CDI,IND,REL_IND_D0_CDI_10Y,REL_IND_D0_CDI_10Y.pdf,10/02/2016,10/02/2026,85a1f4e0ee93b40ec1902e40bd59870b,88744,
+D0,10,IBOV,IND,REL_IND_D0_IBOV_10Y,REL_IND_D0_IBOV_10Y.pdf,10/02/2016,10/02/2026,617a48f47a414360a69b1ff67b636ebb,121791,
+D0,10,PortA,IND,REL_IND_D0_PA_10Y,REL_IND_D0_PA_10Y.pdf,10/02/2016,10/02/2026,f5b32381ac48d557d490551cf12bb114,137681,
+D0,10,PortB,IND,REL_IND_D0_PB_10Y,REL_IND_D0_PB_10Y.pdf,10/02/2016,10/02/2026,ad526b56a4c0514658ea40c68777dfd3,137279,
+D0,10,PortC,IND,REL_IND_D0_PC_10Y,REL_IND_D0_PC_10Y.pdf,10/02/2016,10/02/2026,06d7379ad8829de6d61ff04c71b16b1b,140135,
+D0,10,SP500_BRL_PR,IND,REL_IND_D0_SP500_PR_10Y,REL_IND_D0_SP500_PR_10Y.pdf,10/02/2016,10/02/2026,184364bc00ac4e173a652787ac5f98a4,121985,S&P 500 em BRL; especificar PR vs TR conforme series.
+D0,10,SP500_BRL_TR,IND,REL_IND_D0_SP500_TR_10Y,REL_IND_D0_SP500_TR_10Y.pdf,10/02/2016,10/02/2026,c49af0b6efa367482391ecbfcf79b7d0,121328,S&P 500 em BRL; especificar PR vs TR conforme series.
+D0,15,CDI,IND,REL_IND_D0_CDI_15Y,REL_IND_D0_CDI_15Y.pdf,10/02/2011,10/02/2026,9127f769c1b62ea46bb4f37a8ae7c109,92672,
+D0,15,IBOV,IND,REL_IND_D0_IBOV_15Y,REL_IND_D0_IBOV_15Y.pdf,10/02/2011,10/02/2026,cbbeb5b027c3c616e1b0612bb205265a,131198,
+D0,15,PortA,IND,REL_IND_D0_PA_15Y,REL_IND_D0_PA_15Y.pdf,10/02/2011,10/02/2026,03e2a96579e71062beebc4a09f5570a8,144506,
+D0,15,PortB,IND,REL_IND_D0_PB_15Y,REL_IND_D0_PB_15Y.pdf,10/02/2011,10/02/2026,7ae63fe65b1dfb85f415c4cbc3b3df0a,142523,
+D0,15,PortC,IND,REL_IND_D0_PC_15Y,REL_IND_D0_PC_15Y.pdf,10/02/2011,10/02/2026,a25080422ffea70dc0b71e087a12adf8,146006,
+D0,15,SP500_BRL_PR,IND,REL_IND_D0_SP500_PR_15Y,REL_IND_D0_SP500_PR_15Y.pdf,10/02/2011,10/02/2026,4e122cccaeab6e4e7d2c8b946ebd5222,125576,S&P 500 em BRL; especificar PR vs TR conforme series.
+D0,15,SP500_BRL_TR,IND,REL_IND_D0_SP500_TR_15Y,REL_IND_D0_SP500_TR_15Y.pdf,10/02/2011,10/02/2026,30422235098e0a9881a0432d255f6863,126622,S&P 500 em BRL; especificar PR vs TR conforme series.
+D0,20,CDI,IND,REL_IND_D0_CDI_20Y,REL_IND_D0_CDI_20Y.pdf,10/02/2006,10/02/2026,3cac5345742a54c8417b139690191682,91909,
+D0,20,IBOV,IND,REL_IND_D0_IBOV_20Y,REL_IND_D0_IBOV_20Y.pdf,10/02/2006,10/02/2026,89e857dcb1841b55ad5a45af62c6718e,127935,
+D0,20,PortA,IND,REL_IND_D0_PA_20Y,REL_IND_D0_PA_20Y.pdf,10/02/2006,10/02/2026,0c8ca63b4b3a9826c254545113d1f716,144982,
+D0,20,PortB,IND,REL_IND_D0_PB_20Y,REL_IND_D0_PB_20Y.pdf,10/02/2006,10/02/2026,d101dec0ae146ce329baa8fe3080ed95,139186,
+D0,20,PortC,IND,REL_IND_D0_PC_20Y,REL_IND_D0_PC_20Y.pdf,10/02/2006,10/02/2026,86c1e6a5635c253dec4e9e0e718b7787,142580,
+D0,20,SP500_BRL_PR,IND,REL_IND_D0_SP500_PR_20Y,REL_IND_D0_SP500_PR_20Y.pdf,10/02/2006,10/02/2026,d0fa261537795d6ddad2bee0e8607d47,123550,S&P 500 em BRL; especificar PR vs TR conforme series.
+D0,20,SP500_BRL_TR,IND,REL_IND_D0_SP500_TR_20Y,REL_IND_D0_SP500_TR_20Y.pdf,10/02/2006,10/02/2026,3b5268c34d62c89c85e40e90a4a9ca3a,124101,S&P 500 em BRL; especificar PR vs TR conforme series.
+D0,25,CDI,IND,REL_IND_D0_CDI_25Y,REL_IND_D0_CDI_25Y.pdf,12/02/2001,10/02/2026,7ee3557f295ebd537ee6fb6f69006e58,65186,
+D0,25,IBOV,IND,REL_IND_D0_IBOV_25Y,REL_IND_D0_IBOV_25Y.pdf,12/02/2001,10/02/2026,c54c198e8d9679e91c6ad765509e574b,93076,
+D0,25,PortA,IND,REL_IND_D0_PA_25Y,REL_IND_D0_PA_25Y.pdf,12/02/2001,10/02/2026,9adc6e19130c0abbdf141295d3342383,153532,
+D0,25,PortB,IND,REL_IND_D0_PB_25Y,REL_IND_D0_PB_25Y.pdf,12/02/2001,10/02/2026,8370fe27a5cbcc9ffc19cced0ef50535,149415,
+D0,25,PortC,IND,REL_IND_D0_PC_25Y,REL_IND_D0_PC_25Y.pdf,12/02/2001,10/02/2026,f559513b12a697f9f66fa7f2dafef8f4,152357,
+D0,25,SP500_BRL_PR,IND,REL_IND_D0_SP500_PR_25Y,REL_IND_D0_SP500_PR_25Y.pdf,12/02/2001,10/02/2026,222dbc343cbbc6ca228062e4ea8ce6d6,93402,S&P 500 em BRL; especificar PR vs TR conforme series.
+D0,25,SP500_BRL_TR,IND,REL_IND_D0_SP500_TR_25Y,REL_IND_D0_SP500_TR_25Y.pdf,12/02/2001,10/02/2026,831ce9f840498d97c529660bce110e83,93493,S&P 500 em BRL; especificar PR vs TR conforme series.
+D0,5,CDI,IND,REL_IND_D0_CDI_5Y,REL_IND_D0_CDI_5Y.pdf,10/02/2021,10/02/2026,0d3e69f7d55cde28129f53cb7be32215,87224,
+D0,5,IBOV,IND,REL_IND_D0_IBOV_5Y,REL_IND_D0_IBOV_5Y.pdf,10/02/2021,10/02/2026,52dfb2afb60c5760e7b516db88d68867,119865,
+D0,5,PortA,IND,REL_IND_D0_PA_5Y,REL_IND_D0_PA_5Y.pdf,10/02/2021,10/02/2026,b706815c50934790953b6b7c2593a21d,138573,
+D0,5,PortB,IND,REL_IND_D0_PB_5Y,REL_IND_D0_PB_5Y.pdf,10/02/2021,10/02/2026,d76de080aaecee57b6f1439c7c057e7c,137721,
+D0,5,PortC,IND,REL_IND_D0_PC_5Y,REL_IND_D0_PC_5Y.pdf,10/02/2021,10/02/2026,36b080a4c2e53e43e180613566382947,141076,
+D0,5,SP500_BRL_PR,IND,REL_IND_D0_SP500_PR_5Y,REL_IND_D0_SP500_PR_5Y.pdf,10/02/2021,10/02/2026,caa3fffcdbd764985f80777c47f6d6bd,121051,S&P 500 em BRL; especificar PR vs TR conforme series.
+D0,5,SP500_BRL_TR,IND,REL_IND_D0_SP500_TR_5Y,REL_IND_D0_SP500_TR_5Y.pdf,10/02/2021,10/02/2026,376da51be0c8d81d147708f9fe3123e4,119341,S&P 500 em BRL; especificar PR vs TR conforme series.
+D-12m,10,CDI,IND,REL_IND_D12M_CDI_10Y,REL_IND_D12M_CDI_10Y.pdf,10/02/2015,10/02/2025,2aa64806d8cdfbf69839ff7d9f45ec4e,88568,
+D-12m,10,IBOV,IND,REL_IND_D12M_IBOV_10Y,REL_IND_D12M_IBOV_10Y.pdf,10/02/2015,10/02/2025,4abc0fd3b025afcba29a17cd64bb926a,126135,
+D-12m,10,PortA,IND,REL_IND_D12M_PA_10Y,REL_IND_D12M_PA_10Y.pdf,10/02/2015,10/02/2025,d55a16d77ebf8e9c6b613adf0d7b4af2,139826,
+D-12m,10,PortB,IND,REL_IND_D12M_PB_10Y,REL_IND_D12M_PB_10Y.pdf,10/02/2015,10/02/2025,171c5c1be54ff48a3d05793914a2de95,139722,
+D-12m,10,PortC,IND,REL_IND_D12M_PC_10Y,REL_IND_D12M_PC_10Y.pdf,10/02/2015,10/02/2025,df70e947b34497ae282c3f9c72d28bb8,142170,
+D-12m,10,SP500_BRL_PR,IND,REL_IND_D12M_SP500_PR_10Y,REL_IND_D12M_SP500_PR_10Y.pdf,10/02/2015,10/02/2025,ac69f7bf0312c00cd213a67d1a09ccc4,121804,S&P 500 em BRL; especificar PR vs TR conforme series.
+D-12m,10,SP500_BRL_TR,IND,REL_IND_D12M_SP500_TR_10Y,REL_IND_D12M_SP500_TR_10Y.pdf,10/02/2015,10/02/2025,26d28726f8bf753cd882ec0214a07b5e,119835,S&P 500 em BRL; especificar PR vs TR conforme series.
+D-12m,15,CDI,IND,REL_IND_D12M_CDI_15Y,REL_IND_D12M_CDI_15Y.pdf,10/02/2010,10/02/2025,445e926a1754e3bd09eb13b2730d90ff,92457,
+D-12m,15,IBOV,IND,REL_IND_D12M_IBOV_15Y,REL_IND_D12M_IBOV_15Y.pdf,10/02/2010,10/02/2025,65d336cbe5b48c7a5c5a8bfca5803ca8,133031,
+D-12m,15,PortA,IND,REL_IND_D12M_PA_15Y,REL_IND_D12M_PA_15Y.pdf,10/02/2010,10/02/2025,dc5ed8a9b9286a9bbb6c249648f4e2f8,145792,
+D-12m,15,PortB,IND,REL_IND_D12M_PB_15Y,REL_IND_D12M_PB_15Y.pdf,10/02/2010,10/02/2025,6314dc58de5a65be69ac7075ab64bcda,147103,
+D-12m,15,PortC,IND,REL_IND_D12M_PC_15Y,REL_IND_D12M_PC_15Y.pdf,10/02/2010,10/02/2025,826e24276e065bfff538e19faa869694,147294,
+D-12m,15,SP500_BRL_PR,IND,REL_IND_D12M_SP500_PR_15Y,REL_IND_D12M_SP500_PR_15Y.pdf,10/02/2010,10/02/2025,ddcc1fde6e75811c7d0aba6a77d342b7,125279,S&P 500 em BRL; especificar PR vs TR conforme series.
+D-12m,15,SP500_BRL_TR,IND,REL_IND_D12M_SP500_TR_15Y,REL_IND_D12M_SP500_TR_15Y.pdf,10/02/2010,10/02/2025,5eb98f1c64dd574a3764343adb08c016,127952,S&P 500 em BRL; especificar PR vs TR conforme series.
+D-12m,20,CDI,IND,REL_IND_D12M_CDI_20Y,REL_IND_D12M_CDI_20Y.pdf,10/02/2005,10/02/2025,cac1cc6224d7d97dde36b41196cabba1,90180,
+D-12m,20,IBOV,IND,REL_IND_D12M_IBOV_20Y,REL_IND_D12M_IBOV_20Y.pdf,10/02/2005,10/02/2025,ac731b7dbb35b26928613ea83390f120,127568,
+D-12m,20,PortA,IND,REL_IND_D12M_PA_20Y,REL_IND_D12M_PA_20Y.pdf,10/02/2005,10/02/2025,4aec2e6d0d3295cb4022f9136926fe9a,139115,
+D-12m,20,PortB,IND,REL_IND_D12M_PB_20Y,REL_IND_D12M_PB_20Y.pdf,10/02/2005,10/02/2025,dc07efc12c991605f7fc5d39498b13dd,138644,
+D-12m,20,PortC,IND,REL_IND_D12M_PC_20Y,REL_IND_D12M_PC_20Y.pdf,10/02/2005,10/02/2025,d64cd00d3677d1f354aa0b1bf0cabde6,137765,
+D-12m,20,SP500_BRL_PR,IND,REL_IND_D12M_SP500_PR_20Y,REL_IND_D12M_SP500_PR_20Y.pdf,10/02/2005,10/02/2025,5e3bfe2cf66bedad5747ee5fc1cbb02c,117137,S&P 500 em BRL; especificar PR vs TR conforme series. | Arquivo origem remapeado por report_id interno: by_internal_match(REL_IND_D12M_SP500_TR_20Y.pdf).
+D-12m,20,SP500_BRL_TR,IND,REL_IND_D12M_SP500_TR_20Y,REL_IND_D12M_SP500_TR_20Y.pdf,10/02/2005,10/02/2025,c0e569fdc7d0d40fd5fb090494b22662,118615,S&P 500 em BRL; especificar PR vs TR conforme series. | Arquivo origem remapeado por report_id interno: by_internal_match(REL_IND_D12M_SP500_PR_20Y.pdf).
+D-12m,25,CDI,IND,REL_IND_D12M_CDI_25Y,REL_IND_D12M_CDI_25Y.pdf,10/02/2000,10/02/2025,bbd31a6d9b91bba75fe8f96d01bc249b,66139,
+D-12m,25,IBOV,IND,REL_IND_D12M_IBOV_25Y,REL_IND_D12M_IBOV_25Y.pdf,10/02/2000,10/02/2025,a285db8170fdea5427600941a428c83c,94452,
+D-12m,25,PortA,IND,REL_IND_D12M_PA_25Y,REL_IND_D12M_PA_25Y.pdf,10/02/2000,10/02/2025,c178d1adce59e2cde4530f95ff0aa7a9,157210,
+D-12m,25,PortB,IND,REL_IND_D12M_PB_25Y,REL_IND_D12M_PB_25Y.pdf,10/02/2000,10/02/2025,683a1a5b06e1c25318aeef7ae2d59b35,147366,HOTFIX v13b: PDF substituído para Portfólio B com ALPA3 (protocolo v1.3).
+D-12m,25,PortC,IND,REL_IND_D12M_PC_25Y,REL_IND_D12M_PC_25Y.pdf,10/02/2000,10/02/2025,38fef849472cd05263559b504ee5e08b,150320,
+D-12m,25,SP500_BRL_PR,IND,REL_IND_D12M_SP500_PR_25Y,REL_IND_D12M_SP500_PR_25Y.pdf,10/02/2000,10/02/2025,a7d9e6393549d5cfc921eebfbd678acd,96830,S&P 500 em BRL; especificar PR vs TR conforme series.
+D-12m,25,SP500_BRL_TR,IND,REL_IND_D12M_SP500_TR_25Y,REL_IND_D12M_SP500_TR_25Y.pdf,10/02/2000,10/02/2025,d4a43cfac06ea4921dc2feaaff899fee,96611,S&P 500 em BRL; especificar PR vs TR conforme series.
+D-12m,5,CDI,IND,REL_IND_D12M_CDI_5Y,REL_IND_D12M_CDI_5Y.pdf,10/02/2020,10/02/2025,2112d3c644afc5b78e55f7b167200897,88861,
+D-12m,5,IBOV,IND,REL_IND_D12M_IBOV_5Y,REL_IND_D12M_IBOV_5Y.pdf,10/02/2020,10/02/2025,4b40692dc34b741a72d2890eaaf1176d,121247,
+D-12m,5,PortA,IND,REL_IND_D12M_PA_5Y,REL_IND_D12M_PA_5Y.pdf,10/02/2020,10/02/2025,ee2b7d0278ba9b5f8bfb150f0fc3eacc,133705,
+D-12m,5,PortB,IND,REL_IND_D12M_PB_5Y,REL_IND_D12M_PB_5Y.pdf,10/02/2020,10/02/2025,c1e59fe4a612b1f7b700f1528ab3569b,136268,
+D-12m,5,PortC,IND,REL_IND_D12M_PC_5Y,REL_IND_D12M_PC_5Y.pdf,10/02/2020,10/02/2025,b0346972a520d9e903650acbbea40d08,137339,
+D-12m,5,SP500_BRL_PR,IND,REL_IND_D12M_SP500_PR_5Y,REL_IND_D12M_SP500_PR_5Y.pdf,10/02/2020,10/02/2025,5f056f2c9e0fcef167da833a71bad6f6,120474,S&P 500 em BRL; especificar PR vs TR conforme series.
+D-12m,5,SP500_BRL_TR,IND,REL_IND_D12M_SP500_TR_5Y,REL_IND_D12M_SP500_TR_5Y.pdf,10/02/2020,10/02/2025,2451ee4b2089112fbb6e9f95301782ff,118087,S&P 500 em BRL; especificar PR vs TR conforme series.
+D-6m,10,CDI,IND,REL_IND_D6M_CDI_10Y,REL_IND_D6M_CDI_10Y.pdf,10/08/2015,08/08/2025,1a7debddb296fcd6a8788e327f7300eb,88752,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,10,IBOV,IND,REL_IND_D6M_IBOV_10Y,REL_IND_D6M_IBOV_10Y.pdf,10/08/2015,08/08/2025,6d7ac4172cf2de723e2173ef94dc2185,125912,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,10,PortA,IND,REL_IND_D6M_PA_10Y,REL_IND_D6M_PA_10Y.pdf,10/08/2015,08/08/2025,8fd01e03fbc45c586d7cd0fd474ff9b9,139101,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,10,PortB,IND,REL_IND_D6M_PB_10Y,REL_IND_D6M_PB_10Y.pdf,10/08/2015,08/08/2025,aaa6e571aba92c6d2e2cfe57fb9b4807,140488,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,10,PortC,IND,REL_IND_D6M_PC_10Y,REL_IND_D6M_PC_10Y.pdf,10/08/2015,08/08/2025,560aaa008f7a72733afec23440775f02,143330,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,10,SP500_BRL_PR,IND,REL_IND_D6M_SP500_PR_10Y,REL_IND_D6M_SP500_PR_10Y.pdf,10/08/2015,08/08/2025,6fe69615ed5327bfa11597ed2fd5af92,122470,"S&P 500 em BRL; especificar PR vs TR conforme series. | D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,10,SP500_BRL_TR,IND,REL_IND_D6M_SP500_TR_10Y,REL_IND_D6M_SP500_TR_10Y.pdf,10/08/2015,08/08/2025,ec43ba7f3731877478c122026eb0fdbc,121538,"S&P 500 em BRL; especificar PR vs TR conforme series. | D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,15,CDI,IND,REL_IND_D6M_CDI_15Y,REL_IND_D6M_CDI_15Y.pdf,10/08/2010,08/08/2025,ccca1a14fe40096a036d36b18def62a0,92562,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,15,IBOV,IND,REL_IND_D6M_IBOV_15Y,REL_IND_D6M_IBOV_15Y.pdf,10/08/2010,08/08/2025,3d8718d042af88105647897a42bd976e,132976,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,15,PortA,IND,REL_IND_D6M_PA_15Y,REL_IND_D6M_PA_15Y.pdf,10/08/2010,08/08/2025,90d670a330106369c71af3ce96ae89f9,145428,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,15,PortB,IND,REL_IND_D6M_PB_15Y,REL_IND_D6M_PB_15Y.pdf,10/08/2010,08/08/2025,92a00e5384fbfa0052cfe15d7b4ec835,145687,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,15,PortC,IND,REL_IND_D6M_PC_15Y,REL_IND_D6M_PC_15Y.pdf,10/08/2010,08/08/2025,6d8975f7984f4c2b23e826360f66a5da,147628,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,15,SP500_BRL_PR,IND,REL_IND_D6M_SP500_PR_15Y,REL_IND_D6M_SP500_PR_15Y.pdf,10/08/2010,08/08/2025,762473e2bc0d7a509b6b0755153e7b85,125417,"S&P 500 em BRL; especificar PR vs TR conforme series. | D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,15,SP500_BRL_TR,IND,REL_IND_D6M_SP500_TR_15Y,REL_IND_D6M_SP500_TR_15Y.pdf,10/08/2010,08/08/2025,76a0c9634a4ed90ccd7a5a7ea7bf3eaa,126859,"S&P 500 em BRL; especificar PR vs TR conforme series. | D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,20,CDI,IND,REL_IND_D6M_CDI_20Y,REL_IND_D6M_CDI_20Y.pdf,10/08/2005,08/08/2025,94b12a8d0ca9151124089809f069ceef,89312,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,20,IBOV,IND,REL_IND_D6M_IBOV_20Y,REL_IND_D6M_IBOV_20Y.pdf,10/08/2005,08/08/2025,344c7d34de0bdc4f2019a427e5113b3a,125548,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,20,PortA,IND,REL_IND_D6M_PA_20Y,REL_IND_D6M_PA_20Y.pdf,10/08/2005,08/08/2025,d1204c8cd2caeaa85df0515338b3a379,138686,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,20,PortB,IND,REL_IND_D6M_PB_20Y,REL_IND_D6M_PB_20Y.pdf,10/08/2005,08/08/2025,77ec065439eeffa080d8b21148f17dc4,137537,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,20,PortC,IND,REL_IND_D6M_PC_20Y,REL_IND_D6M_PC_20Y.pdf,10/08/2005,08/08/2025,193fa6ccbeeeca1f4148bb023bab60e7,136752,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,20,SP500_BRL_PR,IND,REL_IND_D6M_SP500_PR_20Y,REL_IND_D6M_SP500_PR_20Y.pdf,10/08/2005,08/08/2025,1d90a512cee50d0e84085fe60ea46b8f,117621,"S&P 500 em BRL; especificar PR vs TR conforme series. | D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,20,SP500_BRL_TR,IND,REL_IND_D6M_SP500_TR_20Y,REL_IND_D6M_SP500_TR_20Y.pdf,10/08/2005,08/08/2025,57b474fcd3ef2ede22dbef7e055225c8,119086,"S&P 500 em BRL; especificar PR vs TR conforme series. | D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,25,CDI,IND,REL_IND_D6M_CDI_25Y,REL_IND_D6M_CDI_25Y.pdf,10/08/2000,08/08/2025,0653dc20d5940e424b86e57374d4575f,65182,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,25,IBOV,IND,REL_IND_D6M_IBOV_25Y,REL_IND_D6M_IBOV_25Y.pdf,10/08/2000,08/08/2025,2da2d9277a8923c2519f351c0ce1b4bf,93029,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,25,PortA,IND,REL_IND_D6M_PA_25Y,REL_IND_D6M_PA_25Y.pdf,10/08/2000,08/08/2025,e2fab8bad9602fe13bcaf3c1d5d222be,153831,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,25,PortB,IND,REL_IND_D6M_PB_25Y,REL_IND_D6M_PB_25Y.pdf,10/08/2000,08/08/2025,05e46c69ca303ea4466dab80f248c583,146155,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,25,PortC,IND,REL_IND_D6M_PC_25Y,REL_IND_D6M_PC_25Y.pdf,10/08/2000,08/08/2025,f7e1f98c7151301a043d8394278fe1aa,150100,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,25,SP500_BRL_PR,IND,REL_IND_D6M_SP500_PR_25Y,REL_IND_D6M_SP500_PR_25Y.pdf,10/08/2000,08/08/2025,64621472170ce5ee36fd83cdb8353848,93615,"S&P 500 em BRL; especificar PR vs TR conforme series. | D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,25,SP500_BRL_TR,IND,REL_IND_D6M_SP500_TR_25Y,REL_IND_D6M_SP500_TR_25Y.pdf,10/08/2000,08/08/2025,01c80d91eb7c6797446a0704339b69ad,92683,"S&P 500 em BRL; especificar PR vs TR conforme series. | D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,5,CDI,IND,REL_IND_D6M_CDI_5Y,REL_IND_D6M_CDI_5Y.pdf,10/08/2020,08/08/2025,92538f38e0e1b3308e28103a39dac812,86810,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,5,IBOV,IND,REL_IND_D6M_IBOV_5Y,REL_IND_D6M_IBOV_5Y.pdf,10/08/2020,08/08/2025,f1610e6e367115f79b4b5475d1e67046,130090,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,5,PortA,IND,REL_IND_D6M_PA_5Y,REL_IND_D6M_PA_5Y.pdf,10/08/2020,08/08/2025,5a9857d023d51d280d7f7819f23101ef,141155,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,5,PortB,IND,REL_IND_D6M_PB_5Y,REL_IND_D6M_PB_5Y.pdf,10/08/2020,08/08/2025,636781bdee218d57b018e9821637e921,141473,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,5,PortC,IND,REL_IND_D6M_PC_5Y,REL_IND_D6M_PC_5Y.pdf,10/08/2020,08/08/2025,fe38e3e96b45b762574319bcbf921572,143301,"D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,5,SP500_BRL_PR,IND,REL_IND_D6M_SP500_PR_5Y,REL_IND_D6M_SP500_PR_5Y.pdf,10/08/2020,08/08/2025,5ecea398dcc95f7d4ec1d583cbe8c834,120381,"S&P 500 em BRL; especificar PR vs TR conforme series. | D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."
+D-6m,5,SP500_BRL_TR,IND,REL_IND_D6M_SP500_TR_5Y,REL_IND_D6M_SP500_TR_5Y.pdf,10/08/2020,08/08/2025,82f8895a811d43819c7fd9e2c3631482,119199,"S&P 500 em BRL; especificar PR vs TR conforme series. | D-6m alvo 10/08/2025 (domingo) → usado 08/08/2025 (último dia anterior, regra não-pregão)."

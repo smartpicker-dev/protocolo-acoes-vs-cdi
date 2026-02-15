@@ -1,0 +1,5 @@
+SHA256 checksums
+gate02_bundle_v13b1.zip  8198a9b902f6f955fddbc7371feffde64071434ba0c9ea963dca58c6f25a5f0e
+PDF_BUNDLE_v13b_120.zip (inside bundle)  735699c5a110d0a4507569707e51c366a258f3ca9e0b13c94cb3432f81e73497
+estudo_base_dados_master_v3.12_protocol_v13b.xlsx (inside bundle)  e17cb9353225bf24c4ecee17f11a30c0702b030876ab4cdc71fc8a6a284d5735
+pdf_manifest_v13b1.csv (inside bundle)  1ced2ffab56a451a998fb6bd181b7723138ada6ce422d9c4d5f8f40cc315cee1
