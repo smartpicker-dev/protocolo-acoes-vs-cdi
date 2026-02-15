@@ -54,3 +54,22 @@ Qualquer alteração após o congelamento do v1.0 deve gerar **v1.1** com justif
 - Motivo: ver `protocol/CHANGELOG.txt`
 - OSF registro (8vub2): `prereg-osf-8vub2-v1.3-complete-2026-02-14-165200-0300` (commit `0b04860`)
 - Verificação: `shasum -a 256 -c protocol/HASHES_v1.3_SHA256.txt`
+
+## Gate 02 PASS — data freeze v13b1 (auditável/reprodutível)
+- Commit (freeze): `dca78cb`
+- Tag (freeze): `freeze-2026-02-15-1016-0300`
+- Tag (gate02): `gate02-pass-v13b1-2026-02-15-105446-0300`
+- Artefatos no Git: `docs/freeze/gate02/v13b1/`
+  - Gate02_QA_Report_v13b.md
+  - Gate02_PDF_to_Sheet_Audit_v13b.csv
+  - pdf_manifest_v13b1.csv
+  - CHECKSUMS_v13b1.txt
+  - CHECKSUMS_freeze_2026-02-15-1016-0300.txt
+  - README_FREEZE_gate02-pass_v13b1.md
+- Binários no OSF (não versionados no Git):  
+  - sources-methodology-maisretorno_v1.0_2026-02-15-1016-0300.zip  
+  - study-data-freeze_gate02-pass_v13b1_2026-02-15-<1016>-0300.zip  
+  - CHECKSUMS_freeze_2026-02-15-1016-0300.txt
+- Verificação (Git, artefatos leves):
+  `shasum -a 256 -c docs/freeze/gate02/v13b1/CHECKSUMS_freeze_2026-02-15-1016-0300.txt`
+
