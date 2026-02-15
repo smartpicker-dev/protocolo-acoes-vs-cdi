@@ -1,0 +1,23 @@
+OSF registration (Gate02 PASS v13b1): https://osf.io/x2h9d/
+Overview: https://osf.io/x2h9d/overview
+Metadata: https://osf.io/x2h9d/metadata/osf
+Files (OSF Storage): https://osf.io/x2h9d/files/osfstorage
+
+Associated OSF project (storage): https://osf.io/q4vbz/
+Project files: https://osf.io/q4vbz/files/osfstorage
+
+Expected OSF folders/files:
+- methods/maisretorno/
+  - sources-methodology-maisretorno_v1.0_2026-02-15-1016-0300.zip
+
+- releases/gate02/v13b1/ (or folder v13b1 in OSF Storage)
+  - study-data-freeze_gate02-pass_v13b1_2026-02-15-<1016>-0300.zip
+  - CHECKSUMS_freeze_2026-02-15-1016-0300.txt
+  - CHECKSUMS_v13b1.txt
+  - pdf_manifest_v13b1.csv
+  - Gate02_QA_Report_v13b.md
+  - Gate02_PDF_to_Sheet_Audit_v13b.csv
+
+Git refs:
+- freeze tag: freeze-2026-02-15-1016-0300
+- gate tag: gate02-pass-v13b1-2026-02-15-105446-0300
