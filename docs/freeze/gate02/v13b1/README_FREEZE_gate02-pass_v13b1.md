@@ -18,3 +18,9 @@ shasum -a 256 -c CHECKSUMS_freeze_2026-02-15-1016-0300.txt
 - Gate02_PDF_to_Sheet_Audit_v13b.csv
 - pdf_manifest_v13b1.csv
 - CHECKSUMS_v13b1.txt
+
+## OSF registration (evidência)
+- OSF registration ID: x2h9d (associated project: q4vbz)
+- OSF evidence tag (Git): `prereg-osf-x2h9d-gate02-v13b1-complete-2026-02-15-131002-0300` (commit `c449d44`)
+- Git freeze tag: `freeze-2026-02-15-1016-0300` (commit `dca78cb`)
+- OSF links: docs/prereg/osf/gate02/v13b1/osf_links_gate02_v13b1.txt
