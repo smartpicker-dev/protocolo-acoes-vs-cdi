@@ -76,7 +76,7 @@ Qualquer alteração após o congelamento do v1.0 deve gerar **v1.1** com justif
   - README_FREEZE_gate02-pass_v13b1.md
 - Binários no OSF (não versionados no Git):  
   - sources-methodology-maisretorno_v1.0_2026-02-15-1016-0300.zip  
-  - study-data-freeze_gate02-pass_v13b1_2026-02-15-<1016>-0300.zip  
+  - study-data-freeze_gate02-pass_v13b1_2026-02-15-1016-0300.zip  
   - CHECKSUMS_freeze_2026-02-15-1016-0300.txt
 - Verificação (Git, artefatos leves):
   `shasum -a 256 -c docs/freeze/gate02/v13b1/CHECKSUMS_freeze_2026-02-15-1016-0300.txt`
