@@ -1,3 +1,11 @@
+# Data freeze (fonte única)
+
+Ponteiro canônico: `paper/DATA_FREEZE_REFERENCE.md`
+
+Tag do ponteiro: `paper-data-freeze-v13b1-2026-02-16-132202-0300`
+
+---
+
 # Protocolo v1.0 — Ações vs CDI (pré-registro / freeze)
 
 Este repositório registra o **protocolo (pré-registro)** de um estudo educacional reprodutível “Ações vs CDI”, incluindo:
