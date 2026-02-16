@@ -15,6 +15,12 @@ Este arquivo lista os artefatos “carimbados” no Git e os ponteiros OSF relev
 - Índice de outputs no README: `docs-outputs-index-v13b1`
 
 ## Outputs v13b1 no Git
+
+### Resultados (Agente 08)
+- Pasta: `outputs/text/v13b1/`
+- Tag: `results-v13b1`
+- Arquivos: `Resultados_v13b1.md`, `Notas_Resultados_v13b1.md`
+
 ### Métricas (Agente 05)
 - Pasta: `outputs/metrics/v13b1/`
 - Tag: `metrics-v13b1`
