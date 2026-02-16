@@ -6,6 +6,16 @@ Tag do ponteiro: `paper-data-freeze-v13b1-2026-02-16-132202-0300`
 
 ---
 
+# Outputs (v13b1)
+
+- Metrics (T1/T2): `outputs/metrics/v13b1/` — tag `metrics-v13b1`
+  - Tabelas: `T1_total_return_CAGR_v13b1.csv`, `T2_risk_core_v13b1.csv` (+ wide)
+  - Dicionário/relatório: `METRICS_DICTIONARY_v13b1.md`, `METRICS_BUILD_REPORT_v13b1.md`
+- Robustez (T3): `outputs/robustness/v13b1/` — tag `robustness-v13b1`
+  - Tabelas: `T3_robust_total_return_CAGR_v13b1.csv`, `T3_robust_risk_core_v13b1.csv`, `T3_robust_portfolio_ranking_v13b1.csv`
+  - Sumário: `robustness_summary_v13b1.md`
+- Nota: CSV/MD são o registro oficial no Git; XLSX é apenas conveniência.
+
 # Protocolo v1.0 — Ações vs CDI (pré-registro / freeze)
 
 Este repositório registra o **protocolo (pré-registro)** de um estudo educacional reprodutível “Ações vs CDI”, incluindo:
