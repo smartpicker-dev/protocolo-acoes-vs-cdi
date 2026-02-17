@@ -36,6 +36,7 @@ Este arquivo lista os artefatos “carimbados” no Git e os ponteiros OSF relev
 - Pasta: `outputs/figures/v13b1/`
 - Commit: `b4166a2` (package + manifest)
 - Tag: `figures-v13b1-2026-02-16-172039-0300`
+- Update “premium polish” (manifest+package): commit `d0f1cf1`; tag `figures-v13b1-polish-2026-02-16-231516-0300`
 - Observação: tags `figures-v13b1` / `figures-v13b1.1` já existiam antes; usar a tag com timestamp acima como referência desta entrega.
 
 ### Fontes de índices (IBOV / S&P 500)
