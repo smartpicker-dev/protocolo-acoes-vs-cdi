@@ -16,6 +16,14 @@ Tag do ponteiro: `paper-data-freeze-v13b1-2026-02-16-132202-0300`
   - Sumário: `robustness_summary_v13b1.md`
 - Nota: CSV/MD são o registro oficial no Git; XLSX é apenas conveniência.
 
+# Auditfix v13b2.1-final (dados canônicos pós-auditoria)
+
+- Tag: `v13b2.1-final` (commit `81efb50`)
+- Diretório canônico: `data/auditfix_v13b2_1_final/` (T1/T2/T3 + QA + checksums; T2 usa o arquivo `T2_risk_core_v13b3.csv`)
+- Documento: `docs/auditfix_v13b2_1_final.md`
+- Planilhas finais do paper: `paper/tables/final/` (`Tabela_1.xlsx`, `Tabela_2.xlsx`, `Tabela_3_painel_A.xlsx`, `Tabela_3_painel_B.xlsx`)
+- Restrição: PDFs originais não são versionados.
+
 # Protocolo v1.0 — Ações vs CDI (pré-registro / freeze)
 
 Este repositório registra o **protocolo (pré-registro)** de um estudo educacional reprodutível “Ações vs CDI”, incluindo:
