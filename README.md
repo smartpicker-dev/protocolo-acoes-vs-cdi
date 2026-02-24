@@ -1,4 +1,6 @@
-# Data freeze (fonte única)
+# Base freeze (Gate02 PASS v13b1 — fonte primária/proveniência)
+
+Datasets derivados canônicos pós-auditoria: ver seção **Auditfix v13b2.1-final** (tag `v13b2.1-final`).
 
 Ponteiro canônico: `paper/DATA_FREEZE_REFERENCE.md`
 
