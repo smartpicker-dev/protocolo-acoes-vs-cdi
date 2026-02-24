@@ -2,6 +2,9 @@
 # v13b2.1-final — Auditoria e correção PDF→planilha (Mais Retorno)
 
 ## Escopo
+
+**Pointers (Git):** dados canônicos = tag `v13b2.1-final` (commit `81efb50`); documentação = tag `docs-auditfix-v13b2.1-final` (commit `00799b7`).
+
 Esta atualização substitui os datasets derivados anteriores por uma versão auditada e corrigida a partir dos relatórios PDF do provedor (Mais Retorno). O desenho do estudo (janelas, snapshots, definições operacionais e métricas) permanece inalterado; foram corrigidas apenas discrepâncias na extração/transcrição e no cálculo de métricas derivadas.
 
 ## Fonte canônica (decisão operacional)
