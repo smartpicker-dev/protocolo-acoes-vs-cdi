@@ -1,0 +1,6 @@
+bundle_version,window,rank_D0,rank_D6M,rank_D12M,stable
+v13b2,5Y,PB > PC > PA,PC > PA > PB,PC > PA > PB,False
+v13b2,10Y,PB > PC > PA,PB > PC > PA,PB > PC > PA,True
+v13b2,15Y,PB > PA > PC,PB > PC > PA,PC > PB > PA,False
+v13b2,20Y,PB > PC > PA,PB > PC > PA,PB > PC > PA,True
+v13b2,25Y,PC > PA > PB,PA > PC > PB,PC > PA > PB,False
