@@ -9,3 +9,10 @@
 - T1 validada com relatórios CMP; T2 recalculada a partir de retornos mensais IND por janela (A: por janela canônico).
 - T3 regenerada a partir de T1 canônica.
 - Artefatos de QA e checksums adicionados para rastreabilidade.
+
+## v13b2.1-final.1 — Pacote final (auditfix + passfail + tabelas)
+
+- Substituição do diretório `data/auditfix_v13b2_1_final/` pelo pacote final (inclui `fix_log_addendum.md`).
+- Inclusão dos artefatos de auditoria pass/fail em `audit/passfail_27fev26/`.
+- Atualização das planilhas finais do paper em `paper/tables/final/`.
+- PDFs do provedor não são versionados (restrição de licenciamento).

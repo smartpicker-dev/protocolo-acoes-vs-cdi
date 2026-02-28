@@ -2,9 +2,6 @@
 # v13b2.1-final — Auditoria e correção PDF→planilha (Mais Retorno)
 
 ## Escopo
-
-**Pointers (Git):** dados canônicos = tag `v13b2.1-final` (commit `81efb50`); documentação = tag `docs-auditfix-v13b2.1-final` (commit `00799b7`).
-
 Esta atualização substitui os datasets derivados anteriores por uma versão auditada e corrigida a partir dos relatórios PDF do provedor (Mais Retorno). O desenho do estudo (janelas, snapshots, definições operacionais e métricas) permanece inalterado; foram corrigidas apenas discrepâncias na extração/transcrição e no cálculo de métricas derivadas.
 
 ## Fonte canônica (decisão operacional)
@@ -12,7 +9,7 @@ Esta atualização substitui os datasets derivados anteriores por uma versão au
 - **Tabela 2 (T2 — Risco):** métricas recalculadas a partir dos retornos mensais “Rentabilidade Histórica” dos relatórios **IND**, **por janela** (cada janela usa seu próprio PDF IND).  
   Observação: para Portfólios A/B/C, janelas são experimentos independentes (pesos iguais no início; buy-and-hold sem rebalanceamento), portanto meses de calendário sobrepostos entre janelas podem divergir por construção. O arquivo `overlap_report.csv` é mantido como **diagnóstico**.
 
-## Arquivos canônicos a partir deste commit (usar SOMENTE estes)
+## Arquivos canônicos (usar SOMENTE estes)
 Diretório: `data/auditfix_v13b2_1_final/`
 - `T1_total_return_CAGR_v13b2.csv`
 - `T2_risk_core_v13b3.csv`
@@ -20,12 +17,22 @@ Diretório: `data/auditfix_v13b2_1_final/`
 - `T3_robust_portfolio_ranking_v13b2.csv`
 
 ## Artefatos de auditoria / QA (rastro auditável)
+Diretório: `data/auditfix_v13b2_1_final/`
 - `QA_GATE_FINAL.md` — gates e contagens finais
 - `fix_log.md` — registro de correções e decisões
+- `fix_log_addendum.md` — adendo (quando aplicável)
 - `diff_full_T2_monthly.csv` — verificação mês-a-mês (dupla extração) para T2
 - `overlap_report.csv` — diagnóstico de sobreposição entre janelas
 - `CHECKSUMS_SHA256.txt` — hashes de integridade
 - `MANIFEST_FINAL.md` — lista de arquivos e descrição do bundle
+
+## Pass/Fail global (artefatos de auditoria)
+Diretório: `audit/passfail_27fev26/`
+- `PASSFAIL_GLOBAL.md`
+- `table_cells_audit.csv`
+- `text_numbers_audit.csv`
+- `references_audit.csv`
+- `figures_sanity_audit.md`
 
 ## Planilhas usadas no paper (saída editorial)
 Diretório: `paper/tables/final/`
@@ -36,10 +43,17 @@ Diretório: `paper/tables/final/`
 
 Essas planilhas devem ser consistentes com os CSVs canônicos e são destinadas a montagem/colagem no manuscrito.
 
+## Como validar integridade (checksums)
+Rodar:
+`( cd data/auditfix_v13b2_1_final && shasum -a 256 -c CHECKSUMS_SHA256.txt )`
+
+Saída esperada: todos os arquivos com status OK.
+
 ## O que mudou (resumo)
 - Correção de discrepâncias pontuais em T1 detectadas na auditoria (CMP).
 - Recomputação de T2 a partir dos mensais IND por janela, com QA estruturado.
 - Regeneração de T3 a partir de T1 canônica.
+- Inclusão de artefatos de PASS/FAIL global para rastreabilidade.
 
 ## O que NÃO mudou
 - Desenho do estudo e framing (observacional; sem inferência; sem recomendação).

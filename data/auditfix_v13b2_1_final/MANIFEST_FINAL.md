@@ -8,10 +8,12 @@ Este bundle consolida os datasets auditados para o paper “Ações vs CDI”.
 - T3_robust_total_return_CAGR_v13b2.csv
 - T3_robust_portfolio_ranking_v13b2.csv
 
-## Artefatos de auditoria
-- diff_full_T2_monthly.csv  (verificação independente pdfplumber vs PyMuPDF, mês-a-mês; deve ser vazio)
-- overlap_report.csv        (diagnóstico: diferenças entre janelas e 25Y; esperado para Portfólios A/B/C)
-- fix_log.md                (histórico de correções)
+## Artefatos de auditoria / QA
+- QA_GATE_FINAL.md        (gate final; inclui verificação independente e explicita o uso de overlap como diagnóstico)
+- diff_full_T2_monthly.csv (verificação independente pdfplumber vs PyMuPDF, mês-a-mês; esperado: 0 divergências)
+- overlap_report.csv       (diagnóstico: mismatches entre janelas e 25Y; esperado para Portfólios A/B/C)
+- fix_log.md               (histórico de correções da rodada intermediária)
+- fix_log_addendum.md      (adendo alinhando o fix_log ao estado final do bundle)
 
 ## Convenção canônica adotada
 A) Por janela canônico (IND de cada janela para T2). Overlap entre janelas é tratado como diagnóstico; 

@@ -1,1 +1,1 @@
-report_id,issue,len_pdfplumber,len_pymupdf,n_mismatch,sample_months
+cut,window,series,month_index,method_A,method_B,difference

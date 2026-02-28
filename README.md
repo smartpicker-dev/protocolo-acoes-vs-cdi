@@ -20,7 +20,7 @@ Tag do ponteiro: `paper-data-freeze-v13b1-2026-02-16-132202-0300`
 
 # Auditfix v13b2.1-final (dados canônicos pós-auditoria)
 
-- Tag: `v13b2.1-final` (commit `81efb50`)
+- Tag (pacote final): `v13b2.1-final.1` (commit: <preencher após commit>); tag histórica anterior: `v13b2.1-final` (commit `81efb50`)
 - Diretório canônico: `data/auditfix_v13b2_1_final/` (T1/T2/T3 + QA + checksums; T2 usa o arquivo `T2_risk_core_v13b3.csv`)
 - Documento: `docs/auditfix_v13b2_1_final.md`
 - Planilhas finais do paper: `paper/tables/final/` (`Tabela_1.xlsx`, `Tabela_2.xlsx`, `Tabela_3_painel_A.xlsx`, `Tabela_3_painel_B.xlsx`)
