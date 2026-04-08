@@ -25,3 +25,19 @@ This file links the Git “freeze” to an external timestamped preregistration 
 ## Rule of changes
 This OSF registration is the preregistration freeze for protocol v1.0.
 Any changes after this freeze require protocol v1.1 with written justification (what changed, why, expected impact).
+
+## Snapshot da versão submetida (2026-04-07)
+
+Foi criado no OSF o componente `submission-2026-04-07` (código: `vg4kj`) para arquivar a versão submetida do manuscrito e seu checksum de integridade.
+
+Arquivos atualmente associados ao componente:
+- `osf_submission_2026-04-07.zip`
+- `osf_submission_2026-04-07.sha256`
+
+Status de visibilidade:
+- componente mantido como privado durante o período de avaliação editorial;
+- intenção atual de torná-lo público em dezembro de 2026, sujeito ao andamento da avaliação/publicação.
+
+Correspondência no Git:
+- snapshot arquivado em `paper/submitted/2026-04-07/`
+- tag Git: `submission-2026-04-07`
