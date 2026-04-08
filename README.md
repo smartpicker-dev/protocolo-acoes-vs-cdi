@@ -101,3 +101,14 @@ Qualquer alteração após o congelamento do v1.0 deve gerar **v1.1** com justif
 - Verificação (Git, artefatos leves):
   `shasum -a 256 -c docs/freeze/gate02/v13b1/CHECKSUMS_freeze_2026-02-15-1016-0300.txt`
 
+
+## Snapshot da versão submetida
+
+A versão submetida à revista em 2026-04-07 está arquivada em:
+
+`paper/submitted/2026-04-07/`
+
+Tag Git correspondente:
+`submission-2026-04-07`
+
+Esse snapshot preserva os arquivos exatos da versão submetida, separadamente da estrutura histórica de trabalho do repositório.
