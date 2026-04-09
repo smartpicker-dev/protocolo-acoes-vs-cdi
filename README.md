@@ -112,3 +112,15 @@ Tag Git correspondente:
 `submission-2026-04-07`
 
 Esse snapshot preserva os arquivos exatos da versão submetida, separadamente da estrutura histórica de trabalho do repositório.
+
+## Versão pública / working paper
+
+Em 2026-04-09 foi arquivada a versão pública do manuscrito em:
+
+`paper/public/2026-04-09/`
+
+Essa versão corresponde ao PDF público/limpo circulado após o encerramento da submissão à RBFin, com autoria explícita e seção de disponibilidade de dados reinserida.
+
+A snapshot cega originalmente submetida à RBFin permanece preservada em:
+
+`paper/submitted/2026-04-07/`
